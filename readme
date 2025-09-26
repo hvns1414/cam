@@ -1,0 +1,14 @@
+# ASCII Webcam Viewer
+
+This project captures real-time video from your webcam and displays it as ASCII art directly in the terminal.
+
+## Requirements
+
+- Python 3.x
+- OpenCV
+- NumPy
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
